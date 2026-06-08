@@ -10,13 +10,13 @@ int sum(int a , int b)
     return sum;
 }
 
+
 int main() {
     
     int a , b;
     cout<<"Enter two numbers: ";
     cin>>a>>b;
     sum(a,b);
-
 
  return 0;
 }
